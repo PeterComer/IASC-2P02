@@ -14,12 +14,8 @@ Explore my interactive Genealogy here
 
 # Speculative Fiction
 
-## Riveting Title
+## The Veiled Hub
 
-blah
-
-## Micro Essay
-
-blah
+Read my short, speculative fiction story [here](IASC 2P02 Speculative Fiction.html). You can also find a short essay breaking it down.
 
 ## Interactive Timeline
