@@ -16,6 +16,6 @@ Explore my interactive Genealogy here
 
 ## The Veiled Hub
 
-Read my short, speculative fiction story [here](IASC 2P02 Speculative Fiction.html). You can also find a short essay breaking it down.
+Read my short, speculative fiction story [here](IASC-2P02-Speculative-Fiction.html). You can also find a short essay breaking it down.
 
 ## Interactive Timeline
